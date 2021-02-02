@@ -58,5 +58,6 @@ printf("hello")
 `
 ## insering urls
 [Teja](https://www.example.com)
-
+## images
+![alt text](image.jpg)
 
