@@ -56,10 +56,10 @@ def fun():
 `
 printf("hello")
 `
-## insering urls
+## Inserting urls
 [Teja](https://www.example.com)
 
 [link](https://www.gmail.com)
 
-## images
-![image](image.kits)
+## Images
+![image](image.in)
