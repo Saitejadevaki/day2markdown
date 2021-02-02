@@ -49,8 +49,10 @@ __*hello*__
 ``` 
 def fun()
     print("hello world")
- fun()   
 ````
+```
+    fun()   
+```
 
 
 
