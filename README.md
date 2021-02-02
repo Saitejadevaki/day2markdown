@@ -58,5 +58,6 @@ printf("hello")
 `
 ## insering urls
 [Teja](https://www.example.com)
-[link](https://github.com/Saitejadevaki/day2markdown/blob/main/devakisaiteja@gmail.com)
+
+[link](https://www.gmail.com)
 
