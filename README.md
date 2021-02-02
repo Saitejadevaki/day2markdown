@@ -62,5 +62,4 @@ printf("hello")
 [link](https://www.gmail.com)
 
 ## images
-![image](
-www.izito.co.in)
+![image](image.kits)
