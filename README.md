@@ -36,10 +36,15 @@ __*hello*__
     1. eee a
     2. eee b
 ## Unordered List
-_ cse
-_ mech
-_ civil
-
+- cse
+- ece
+- mech
+    - mech a
+    - mech b
+- eee
+- civil 
+    - civil a
+    - civil b
 
 
 
