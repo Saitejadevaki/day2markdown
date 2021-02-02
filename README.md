@@ -47,7 +47,7 @@ __*hello*__
     - civil b
 ## coding
 ``` 
-def fun()
+def fun():
     print("hello world")
 ````
 ```
